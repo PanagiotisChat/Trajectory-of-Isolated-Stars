@@ -1,2 +1,4 @@
 # Trajectory-of-Isolated-Stars
 The thesis is in Greek. Yet I crated a readme file (README.pdf) for the software in english. It is an english translation of the Appendix A which is dedicated to the code I created. I edited it even more so everybody can understand how to use the software without reading the thesis. Please contact me for any question or even for a more a in-depth editing at the README.pdf file. I use a specific catalogue of clusters, anybody can access it for more details or use only specific clusters from the txt file by copying them to the main.py program.
+
+The RXJ1856-example.py is the calculation of the trajectory of the first isolated neutron star in my thesis. It shows exactly how the variables are in the last version of my analysis and running it (having installed the essential packages) will pop up the graph, export a file of the points in the graph and print on screen the distance from cluster centers. 
