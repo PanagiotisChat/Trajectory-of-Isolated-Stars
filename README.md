@@ -1,1 +1,2 @@
 # Trajectory-of-Isolated-Stars
+The thesis is in Greek. Yet I crated a readme file (README.pdf) for the software in english. It is an english translation of the Appendix A which is dedicated to the code I created. I edited it even more so everybody can understand how to use the software without reading the thesis. Please contact me for any question or even for a more a in-depth editing at the README.pdf file.
